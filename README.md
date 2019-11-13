@@ -1,4 +1,4 @@
-# TodoListManager_Docker
+# TodoListManager
 
 This project uses MySQL database as a backend which is a seperate docker container
 
